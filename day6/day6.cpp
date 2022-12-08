@@ -7,7 +7,7 @@
 // Description: https://adventofcode.com/2022/day/6
 
 // The size of the string of nonrepeating characters that we're searching for
-#define MAGIC_SIZE (4)
+#define MAGIC_SIZE (14)
 
 // Returns true if there are no repeats in 'items'
 bool hasAllUniqueMembers(const std::deque<char>& items)
